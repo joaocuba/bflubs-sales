@@ -27,5 +27,3 @@ Power BI, DAX, Power Query, Modelagem de Dados e KPIs Comerciais.
 ## Dashboard público
 
 [Acessar o dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGU0NjA4M2YtMjQ3Yy00ZWQ3LThlOGQtNmFhZjc4YjU5ZWRlIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
-
-> As bases de dados não são disponibilizadas publicamente.
