@@ -1,0 +1,9 @@
+*.pbix
+*.csv
+*.xls
+*.xlsx
+*.xlsm
+[Bb]ase/
+[Bb]ases/
+[Dd]ados/
+[Dd]ata/
